@@ -86,7 +86,7 @@ header{
 /*main*/
 
 main{
-    background-image: url(imagem/bg1.jpg);
+    background-image: url(bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
